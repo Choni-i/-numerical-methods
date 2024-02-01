@@ -1,0 +1,29 @@
+For N = 10: 
+sum = 17.142857142857142 
+abs error = 6.857142857142858 
+numders of right figure = 1
+
+For N = 100: 
+sum = 23.076923076923062 
+abs error = 0.9230769230769376 
+numders of right figure = 2
+
+For N = 1000: 
+sum = 23.904382470119508 
+abs error = 0.09561752988049221 
+numders of right figure = 3
+
+For N = 10000: 
+sum = 23.990403838464626 
+abs error = 0.009596161535373682 
+numders of right figure = 4
+
+For N = 100000: 
+sum = 23.9990400383994 
+abs error = 0.0009599616005999678 
+numders of right figure = 5
+
+For N = 1000000: 
+sum = 23.99990400038543 
+abs error = 9.599961456885353e-05 
+numders of right figure = 6
